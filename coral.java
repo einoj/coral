@@ -1,8 +1,6 @@
 import java.awt.image.BufferedImage;
-import java.awt.*;
-import javax.swing.*;
-import java.net.URL;
-import java.io.*;
+import java.awt.Graphics;
+import java.io.File;
 import javax.imageio.ImageIO;
 import java.util.Scanner;
 import java.util.Random;
