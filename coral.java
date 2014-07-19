@@ -49,7 +49,6 @@ class Coral {
         height += h_modifier;
 
         Random rnd = new Random();
-        int j;
         
         for (int i = 1; i < n_img; i++) {
                 g.drawImage(coralArray[rnd.nextInt(3)], 0, height, null);
