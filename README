@@ -1,0 +1,7 @@
+This program was meant as a joke!
+I saw the post at http://imgur.com/gallery/MhwzkWW, and made this
+program to autogenerate such images.
+The program needs to have the images coral*.jpg in its working dir.
+
+compile with: "javac coral.java"
+run with: "java Coral"
